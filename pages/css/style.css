@@ -1,0 +1,34 @@
+body{
+    background-image: url("imagen/puestaDeSol.png");
+}
+
+.menu{
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+}
+.titulo{
+    color: blue;
+}
+.container{
+
+        text-align: center;
+
+}
+.elect{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.robot{
+    width: 80%;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-title{
+    color: blue;
+}
